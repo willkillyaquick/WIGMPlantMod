@@ -1,0 +1,45 @@
+CHANGE LOG 1.0b 11/10/2014:
+ADDS:
+    - Plants:
+        Tea Bush
+        Orange Bush
+        Mint Bush
+        Raspberry Bush
+    - Foods:
+        Orange
+        Raspberry
+    - Teas:
+        Green Tea
+        Black Tea
+        Mint Tea
+        Mate Tea
+        Gray Tea
+        White Tea
+        SPECIAL: Jolly Tea
+    - Craft Items:
+        Tea Leaves
+        Black Tea Leaves
+        Mint Leaves
+        Sugar Lumps
+        Mail Milk
+        Cameillia Sinensis Flower
+        
+    - World Generation Created for Bushes
+    - Core added for Seeds, Bushes, Static Items, Tea Leaves, and Teas
+    - Tree generation added but not in use currently
+    - Added Crafting and Smelting Core
+
+REMOVES:
+    None
+    
+FUTURE:
+    - Tomato Plants
+    - Bell Peppers plants
+    - Rice plants
+    - Tree Generation working
+    - Poison arrows
+    - Poison Plants
+        Ivy
+        
+ISSUES AND BUGS:
+17NOV2014   BUG: Client can crash during world generation of plants.
