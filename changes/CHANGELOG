@@ -1,4 +1,4 @@
-CHANGE LOG 1.0b 11/10/2014:
+CHANGE LOG 1.0b:
 ADDS:
     - Plants:
         Tea Bush
@@ -42,4 +42,20 @@ FUTURE:
         Ivy
         
 ISSUES AND BUGS:
-17NOV2014   BUG: Client can crash during world generation of plants.
+17NOV2014   BUG: Client error on plant generation.  Suspect clash with another mod. 
+#######################################################################################
+CHANGE LOG 1.1b:
+ADDS:
+    - Added client notification version for MOD
+    - Added Items
+        - Hot Chocolate (Gives fire resistance)
+        - Marshmallow
+        - Chocolate Bar
+        - Gram Cracker
+        - S'mores (50% chance of night vision)
+        - Onion
+        - Gammon joint
+        - Ping N Blacket
+        - Onion
+    -Added New Plant
+        -Onion
