@@ -1,0 +1,46 @@
+item.wigmplantmod.teaseed.name=Tea Sapling
+item.wigmplantmod.mintseed.name=Mint Sapling
+item.wigmplantmod.raspberryseed.name=Raspberry Sapling
+item.wigmplantmod.orangeseed.name=Orange Sapling
+item.wigmplantmod.onionseed.name=Onion Bulb
+
+tile.wigmplantmod.teabush.name=Tea Bush
+tile.wigmplantmod.mintbush.name=Mint Bush
+tile.wigmplantmod.raspberrybush.name=Raspberry Bush
+tile.wigmplantmod.orangebush.name=Orange Bush
+tile.wigmplantmod.onionbush.name=Onion Plant
+
+item.wigmplantmod.tealeaves.name=Green Tea Leaves
+item.wigmplantmod.mintleaves.name=Mint Leaves
+item.wigmplantmod.blacktealeaves.name=Black Tea Leaves
+item.wigmplantmod.camelliasinesnsisflower.name=Camellia Sinesnsis Flower
+item.wigmplantmod.orange.name=Orange
+item.wigmplantmod.raspberry.name=Raspberry
+item.wigmplantmod.sugarlumps.name=Lump of Sugar
+item.wigmplantmod.mailmilk.name=Mail Milk
+item.wigmplantmod.marshmallow.name=Marshmallow
+item.wigmplantmod.chocolatebar.name=Chocolate Bar
+item.wigmplantmod.gramcracker.name=Gram Cracker
+item.wigmplantmod.driedorange.name=Dried Orange
+item.wigmplantmod.driedraspberry.name=Dried Raspberry
+item.wigmplantmod.onion.name=Onion
+
+item.wigmplantmod.gammonjoint.name=Gammon Joint
+item.wigmplantmod.piginblanket.name=Pigs N Blanket
+item.wigmplantmod.oniongravy.name=Onion Gravy
+item.wigmplantmod.saussage.name=Saussage
+item.wigmplantmod.toadinhole.name=Toads in the Hole
+item.wigmplantmod.bangersandmash.name=Bangers and Mash
+item.wigmplantmod.spotteddick.name=Spotted Dick
+item.wigmplantmod.bubbleandsqueak.name=Bubble and Squeak
+
+item.wigmplantmod.blacktea.name=Black Tea
+item.wigmplantmod.greentea.name=Green Tea
+item.wigmplantmod.graytea.name=Gray Tea
+item.wigmplantmod.matetea.name=Mate Tea
+item.wigmplantmod.herbaltea.name=Herbal Tea
+item.wigmplantmod.minttea.name=Mint Tea
+item.wigmplantmod.whitetea.name=White Tea
+item.wigmplantmod.jollytea.name=Jolly Tea
+item.wigmplantmod.hotchocolate.name=Hot Chocolate
+item.wigmplantmod.smores.name=S'mores
