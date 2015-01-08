@@ -26,7 +26,8 @@ public class GrassGenerator extends WorldGenerator {
 			while (world.getBlock(x, y - 1, z) != Blocks.dirt && y > 55) {
 				--y;
 			}
-			if (world.isAirBlock(x, y, z) || world.getBlock(x, y, z) == Blocks.grass) {
+			//TODO add in a check for a dirt block
+			if (world.getBlock(x, y - 1, z) == Blocks.dirt && (world.isAirBlock(x, y, z) || world.getBlock(x, y, z) == Blocks.grass)) {
 				setBlock(world, x, y+1, z, grass);
 				//System.out.println(x + " " + y + " " + z);
 				return true;

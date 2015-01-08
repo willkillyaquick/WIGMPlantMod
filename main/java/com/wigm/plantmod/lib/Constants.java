@@ -2,7 +2,7 @@ package com.wigm.plantmod.lib;
 
 /**
  * @author Thomas Snyder (willkillyaquick)
- * @version Dec 5, 2014
+ * @version Jan 7, 2015
  *
  */
 public class Constants {
@@ -12,8 +12,8 @@ public class Constants {
 	//Human readable content
 	public final static String MODNAME = "WIGM Plant Mod";
 	//
-	public final static String VERSION = "1.2b";
-	public final static int modReleasedNumber = 2;
+	public final static String VERSION = "1.21b";
+	public final static int modReleasedNumber = 3;
 	
 	//Plants
 	public final static String TEAPLANT = "teaplant";

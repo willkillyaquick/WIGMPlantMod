@@ -68,3 +68,7 @@ ADDS:
     - Bangers and Mash (Heal)
     - Spotted Dick (Water breathing)
     - Bubble and Squeak
+#######################################################################################
+CHANGE LOG 1.21B
+BUGS:
+    Fixed bug that spawned plants in mid air when playing on flat world
